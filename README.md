@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am currently building my portfolio and I have created my website
-<!--
+### I am currently building my portfolio 😄 so watch this space
+### 
 **ShalomOdozi/ShalomOdozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
